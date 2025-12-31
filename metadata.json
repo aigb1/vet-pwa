@@ -1,0 +1,8 @@
+{
+  "name": "veterinary.london | PWA",
+  "description": "A premium veterinary telehealth platform serving the London area with PWA support, AI-powered triage and luxury digital health passports.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

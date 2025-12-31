@@ -1,0 +1,22 @@
+
+{
+  "name": "veterinary.london | Premium Pet Care",
+  "short_name": "Vet.London",
+  "description": "Premium veterinary telehealth platform serving London.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0F172A",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3047/3047928.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3047/3047928.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
